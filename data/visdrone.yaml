@@ -1,0 +1,4 @@
+train: D:\yolov7-main_2\yolov7-main\visdrone\VisDrone2019-DET-train\images
+val: D:\yolov7-main_2\yolov7-main\visdrone\VisDrone2019-DET-val\images
+nc: 11
+names: [ 'pedestrian', 'people', 'bicycle', 'car', 'van','truck', 'tricycle', 'awning-tricycle', 'bus', 'motor', 'others']

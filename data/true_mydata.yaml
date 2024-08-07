@@ -1,0 +1,6 @@
+train: D:\yolov7-main_2\yolov7-main\VISDRONE_TRUE\images\train
+val: D:\yolov7-main_2\yolov7-main\VISDRONE_TRUE\images\val
+nc: 1
+
+# class names
+names: ['landped_det']

@@ -1,0 +1,9 @@
+train: D:\VOCdevkit\train.txt
+val: D:\VOCdevkit\val.txt
+#test: ./coco/test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 1
+
+# class names
+names: ['landpad_det']
